@@ -1,0 +1,10 @@
+header{font-size:40px;
+  color:#ffffff;
+  background-color:#0000ff;
+  display:flex;
+  justify-content:space-between;
+}
+.product{}
+.cart{width:40px}
+img{width:500px;
+}

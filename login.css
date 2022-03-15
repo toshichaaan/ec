@@ -1,0 +1,14 @@
+.content{margin-left:500px;
+    
+}
+header{font-size:40px;
+  color:#ffffff;
+  background-color:#0000ff;
+  display:flex;
+  justify-content:space-between;
+ 
+}
+.box{}
+.cart{
+    width:40px;
+}
